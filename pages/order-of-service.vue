@@ -6,34 +6,33 @@
     <div class="section details">
       <!-- CONTENT START -->
       <h1 class="title">Order of service</h1>
-      <p><em>Thursday 28th January 2021</em> Due to COVID-19 the services are restricted in the number of people allowed. The plan is to live stream the services so everyone who wants to attend will be able to do so virtually. We will also hold a celebration of Lyns life later in the year when COVID-19 restrictions are relaxed.</p>
-      <p class="highlight">A Bit of important text that you want to stand out, such as any dressing requirements.</p>
-      <h2>Church Service <span>10:30am</span></h2>
+      <p><em class="hide">Friday - September 8th, 2023 @ TBD</em> We hope to live stream the services so everyone who wants to attend will be able to do so virtually.</p>
+      <p>There will be a join service for Mary and Wayne on Friday, September 8th @ [TBD] at Bethal Baptist Church for all who can attend. There will also be a Military Ceremony for Wayne on Monday, September 11th, 20223 @ TBD.</p>
+      <h2>Joint Memorial Service<span class="hide">[TBD]</span></h2>
+      <p class="highlight">Friday - September 8th, 2023 @ TBD</p>
       <ul class="fa-ul">
-        <ListItem>Service starts at 10:30am at Church Address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
+        <ListItem>Service starts at [TBD] at Bethal Baptist Church</ListItem>
+        <ListItem>Entrance music: [TBD]</ListItem>
         <ListItem>Scripture reading</ListItem>
         <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Song: Goodness of God</ListItem>
+        <ListItem>Song: [TBD]</ListItem>
         <ListItem>Tributes - Family &amp; Friends</ListItem>
         <ListItem>Few moments of quiet</ListItem>
         <ListItem>Short message</ListItem>
         <ListItem>Prayer of Commendation</ListItem>
         <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: New Wine</ListItem>
+        <ListItem>Exit music: [TBD]</ListItem>
       </ul>
-      <h2>Crematorium <span>12:00pm</span></h2>
+
+      <h2>Military Ceremony for Dad <span class="hide">[TBD]</span></h2>
+      <p class="highlight">Monday - September 11th, 2023 @ TBD</p>
       <ul class="fa-ul">
-        <ListItem>Service starts at 12pm at Crematorium address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
-        <ListItem>Scripture reading - Psalm 61 v1-4</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Tribute</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Committal</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: New Wine</ListItem>
+        <ListItem>Service starts at [TBD] at Miramar National Cemetery</ListItem>
+        <ListItem>[Info item 1]]</ListItem>
+        <ListItem>[Info item 2]]</ListItem>
+        <ListItem>[Info item 3]]</ListItem>
+        <ListItem>[Info item 4]]</ListItem>
+        <ListItem>[Info item 5]]</ListItem>
       </ul>
       <!-- CONTENT END -->
     </div>

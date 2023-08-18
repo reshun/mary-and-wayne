@@ -5,16 +5,11 @@
     </div>
     <div class="section details">
       <!-- CONTENT START -->
-      <h1 class="title">Charity Donations</h1>
-      <p>Instead of flowers we would like to suggest people make a donation to one of the following charities</p>
-      <h2>Marie Curie</h2>
-      <p>We are so grateful to <em>Marie Curie</em> for their support and making sure their patients are as 
-        comfortable and peaceful as possible when the end came.
+      <h1 class="title">Donations</h1>
+      <h2>Go Fund Me</h2>
+      <p>If you are willing and able to contribute to the go fund me, all proceeds will go towards expenses related to the Joint Memorial Service on September 8th, 2023.
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="https://www.justgiving.com/fundraising/">Donate to Marie Curie</a>
-      <h2>Make a Wish</h2>
-      <p><em>Make A Wish</em>'s goal of giving joy to children during a terrible time is something that would be a fitting tribute.</p>
-      <a class="button" target="_blank" rel=”noopener” href="https://www.justgiving.com/fundraising/">Donate to Make a Wish</a>
+      <a class="button" target="_blank" rel=”noopener” href="https://www.gofundme.com/f/mary-and-wayne">Donate via GoFundMe</a>
       <!-- CONTENT END -->
     </div>
   </div>

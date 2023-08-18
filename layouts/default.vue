@@ -5,8 +5,10 @@
 </template>
 
 <style lang="scss">
-$highlight: #f41b8e;
-$highlightmuted: #f41b8ed9;
+// $highlight: #f41b8e;
+// $highlightmuted: #f41b8ed9;
+$highlight: #BB8FCE;
+$highlightmuted: #A569BD;
 $background: #2b3143;
 
 html {
@@ -183,7 +185,7 @@ html {
       font-weight: 300;
       &.highlight {
         background: $highlightmuted;
-        padding: 20px;
+        padding: 10px;
         font-weight: 400;
       }
     }
@@ -263,7 +265,7 @@ ul {
   }
 }
 .name {
-  font-size: 40px;
+  font-size: 35px;
   color: #fff;
   font-weight: 300;
 }
@@ -319,5 +321,8 @@ ul {
 
 .svg-inline--fa.fa-fw {
     width: 1.25em;
+}
+.hide {
+  display: none
 }
 </style>

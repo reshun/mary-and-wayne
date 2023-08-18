@@ -1,10 +1,18 @@
-const name = 'Janet Doe'
-const dates = 'July 29th 1958 - Jan 4th 2021'
+const name = 'Mary & Wayne Junior'
+const dates = 'October 1st 1948 & January 21st 1944 - Aug 8th 2023'
+const name_1 = 'Mary Sue Davis-Junior'
+const birth_date_1 = 'October 1st, 1948 - August 8th, 2023'
+const name_2 = 'Wayne Frederick Junior'
+const birth_date_2 = 'January 21st, 1944 - August 8th, 2023'
 
 export default {
   publicRuntimeConfig: {
     name: name,
-    dates: dates
+    dates: dates,
+    name_1: name_1,
+    name_2: name_2,
+    birth_date_1: birth_date_1,
+    birth_date_2: birth_date_2
   },
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
