@@ -50,7 +50,7 @@
 
       <h2>Military Graveside Ceremony for Dad</h2>
       <p><em>Detailed instructions to follow shortly</em></p>
-      <p class="highlight">Mon - Sept. 11th, 2023 @ 11:30am</p>
+      <p class="highlight">Mon - Sept. 11th, 2023 @ 11:15am</p>
       <p class="address">
         <em>Miramar National Cemetery</em><br />
         855 Brotherton Rd<br />
