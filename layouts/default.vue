@@ -201,7 +201,7 @@ html {
       }
     }
     .title {
-      margin: 0px 0 25px;
+      margin: 0px 0 5px;
     }
     h2 {
       margin: 40px 0 5px;
@@ -291,6 +291,9 @@ ul {
   margin: 40px 0;
   @media screen and (max-width: 800px) {
     margin: 25px 0;
+  }
+  .pad {
+    padding-top: 25px;
   }
 }
 
