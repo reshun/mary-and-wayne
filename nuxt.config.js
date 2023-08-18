@@ -1,7 +1,7 @@
 const name = 'Mary & Wayne Junior'
-const dates = 'October 1st 1948 & January 21st 1944 - Aug 8th 2023'
+const dates = 'October 11th 1948 & January 21st 1944 - Aug 8th 2023'
 const name_1 = 'Mary Sue Davis-Junior'
-const birth_date_1 = 'October 1st, 1948 - August 8th, 2023'
+const birth_date_1 = 'October 11th, 1948 - August 8th, 2023'
 const name_2 = 'Wayne Frederick Junior'
 const birth_date_2 = 'January 21st, 1944 - August 8th, 2023'
 
