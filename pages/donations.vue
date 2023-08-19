@@ -7,8 +7,8 @@
       <!-- CONTENT START -->
       <h1 class="title">Donations</h1>
       <h2>Service Fund</h2>
-      <p>If you are willing and able to contribute to the go fund me, all proceeds will go towards expenses related to the
-        Joint Memorial Service on September 8th, 2023.
+      <p>If you are willing and able to contribute to the GoFundMe Fundraiser, all proceeds will go towards expenses related to the
+        Memorial Service and its preparation to be held on <NuxtLink to="/services"><span class="link"></span>September 8th, 2023</NuxtLink>.
       </p>
       <a class="button" target="_blank" rel=”noopener” href="https://www.gofundme.com/f/mary-and-wayne">Donate via
         GoFundMe</a>
