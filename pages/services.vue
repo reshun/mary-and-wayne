@@ -6,9 +6,14 @@
     <div class="section details">
       <!-- CONTENT START -->
       <h1 class="title">Services</h1>
-      <p>There will be a Viewing, Memorial Service and Reception for Mom and Dad on Friday, September 8th at Bethal Baptist Church for all
+      <p>There will be a Viewing, Memorial Service and Reception for Mom and Dad on Friday, September 8th at Bethal
+        Baptist Church for all
         who can attend. There will also be a Military Ceremony for Wayne on Monday, September 11th, 2023.</p>
-      <p><em class="hide">Friday - September 8th, 2023 @ 2pm</em> We hope to be able to livestream the services for those who who are not able to attend.</p>
+
+      <p>
+        If you would like to send flowers for the family, which will be displayed at the service please visit the
+        <NuxtLink to="/donations"><span class="link"></span>Donations</NuxtLink> page for details.
+      </p>
 
       <h2>Viewing of Mom and Dad</h2>
       <p class="highlight">Friday - Sept. 8th, 2023 @ 10am</p>

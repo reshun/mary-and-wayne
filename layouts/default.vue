@@ -98,6 +98,12 @@ html {
     height: 100%!important;
     padding-bottom: 90px!important;
   }
+  a {
+    color: #A569BD;
+    &:visited {
+      color: #ffffff;
+    }
+  }
   &.links {
     background-image: url('~assets/corner.svg');
     background-position: bottom 20px left 20px;
