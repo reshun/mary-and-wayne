@@ -98,12 +98,6 @@ html {
     height: 100%!important;
     padding-bottom: 90px!important;
   }
-  a {
-    color: #A569BD;
-    &:visited {
-      color: #ffffff;
-    }
-  }
   &.links {
     background-image: url('~assets/corner.svg');
     background-position: bottom 20px left 20px;
@@ -194,6 +188,12 @@ html {
         padding: 10px;
         font-weight: 400;
       }
+    a {
+    color: #FFFFFF;
+    &:visited {
+      color: #FFFFFF;
+    }
+  }
     }
     .fa-li {
       color: $highlight;

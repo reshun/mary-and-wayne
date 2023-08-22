@@ -58,8 +58,8 @@
       <p class="highlight">Mon - Sept. 11th, 2023 @ 11:15am</p>
       <p class="address">
         <em>Miramar National Cemetery</em><br />
-        855 Brotherton Rd<br />
-        Escondido, CA 92025
+        5795 Nobel Drive<br />
+        San Diego, CA 92122
       </p>
 
       <ul class="fa-ul">
