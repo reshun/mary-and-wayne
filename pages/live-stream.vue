@@ -10,7 +10,7 @@
       <h2>Joint Church Service</h2>
       <p>The service will be performed at Bethal Baptist Church
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="https://www.youtube.com/">Youtube Livestream - [TBD]</a>
+      <a class="button" target="_blank" rel=”noopener” href="https://www.youtube.com/watch?v=qRLF3o9FCxY">Youtube Livestream - [Friday, Sept. 8 @ 2pm]</a>
       <h2>Military Ceremony for Dad</h2>
       <p>The service will be held at Miramar National Cemetery</p>
       <a class="button" target="_blank" rel=”noopener” href="https://www.youtube.com/">Youtube Livestream - [TBD]</a>
