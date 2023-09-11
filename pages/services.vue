@@ -31,14 +31,17 @@
         Escondido, CA 92025
       </p>
       <ul class="fa-ul">
-        <ListItem>Entrance music: [TBD]</ListItem>
-        <ListItem>Scripture reading</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Song: [TBD]</ListItem>
-        <ListItem>Tributes - Family &amp; Friends</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: [TBD]</ListItem>
+        <ListItem>Processional - Family</ListItem>
+        <ListItem>Scripture and prayer - Pastor Mike Martin</ListItem>
+        <ListItem>Poem - Lorinza Davis Jr.</ListItem>
+        <ListItem>Musical Selection - Angela Jones</ListItem>
+        <ListItem>Reflections - Family & friends</ListItem>
+        <ListItem>Musical Selection - Mike & Sarah DeNeve</ListItem>
+        <ListItem>Acknowledgements - Keoni Baxter</ListItem>
+        <ListItem>Obituary - Leon Davis</ListItem>
+        <ListItem>Eulogy - Renita McNeil/ReShun Davis</ListItem>
+        <ListItem>Benediction</ListItem>
+        <ListItem>Recessional</ListItem>
       </ul>
 
       <h2>Post-Service Fellowship</h2>
@@ -54,18 +57,18 @@
       </ul>
 
       <h2>Military Graveside Ceremony for Dad</h2>
-      <p><em>Detailed instructions to follow shortly</em></p>
       <p class="highlight">Mon - Sept. 11th, 2023 @ 11:15am</p>
       <p class="address">
         <em>Miramar National Cemetery</em><br />
         5795 Nobel Drive<br />
-        San Diego, CA 92122
+        San Diego, CA 92122<br />
+        (858) 658-7360
       </p>
 
-      <ul class="fa-ul">
-        <ListItem>Graveside Ceremony</ListItem>
-        <ListItem>Additional items to follow once finalized</ListItem>
-      </ul>
+      <p><em>Service begins at 11:15am - please arrive 10-15 minutes before for directions to site.</em></p>
+
+      <p> <em>Directions upon entry:</em>
+Take an immediate right entering the cemetery. Park in Lane #2, which is the middle lane. This will be designated parking for the Next-of-Kin and funeral home vehicles, as well as all other members of the party lining up directly behind your vehicles. </p>
       <!-- CONTENT END -->
     </div>
   </div>
